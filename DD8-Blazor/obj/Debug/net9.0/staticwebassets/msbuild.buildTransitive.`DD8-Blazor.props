@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\`DD8-Blazor.props" />
+</Project>

@@ -1,0 +1,48 @@
+﻿@inject NavigationManager NavigationManager
+
+<MudButton OnClick="ToggleMenu">
+    <img src="assets/images/sidenav-icons/parameter-icon.svg" class="icon-parameter" />
+</MudButton>
+
+<MudMenu @bind-Open="_isMenuOpen">
+    <MudMenuItem OnClick="NavigateToAccount">Conta</MudMenuItem>
+    <MudMenuItem OnClick="NavigateToTeam">Equipe</MudMenuItem>
+    <MudMenuItem OnClick="Logout">Sair</MudMenuItem>
+</MudMenu>
+
+@code {
+    private bool _isMenuOpen = false;
+
+    private void ToggleMenu()
+    {
+        _isMenuOpen = !_isMenuOpen;
+    }
+
+    private void NavigateToAccount()
+    {
+        // Lógica de navegação para a conta
+        NavigationManager.NavigateTo("/account");
+        _isMenuOpen = true;
+    }
+
+    private void NavigateToTeam()
+    {
+        // Lógica de navegação para a equipe
+        NavigationManager.NavigateTo("/team");
+        _isMenuOpen = true;
+    }
+
+    private void Logout()
+    {
+        // Lógica de logout
+        NavigationManager.NavigateTo("/logout");
+        _isMenuOpen = true;
+    }
+}
+
+
+
+
+
+
+

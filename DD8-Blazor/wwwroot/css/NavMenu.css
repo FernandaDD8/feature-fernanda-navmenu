@@ -1,0 +1,172 @@
+﻿.mud-container--gutters {
+    padding-left: 10px;
+    padding-right: 0px;
+}
+
+.text-div {
+    font-size: 10px;
+    color: #2b2b33;
+    font-family: Montserrat, sans-serif;
+}
+
+.text-menu {
+    font-size: 16px;
+    color: #000000;
+    font-family: Montserrat, sans-serif;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    border: none;
+    font-weight: 500;
+}
+
+    .text-menu a {
+        text-decoration: none;
+        background-color: transparent;
+    }
+
+        .text-menu a:hover {
+            border-left: 3px solid #00F;
+            border-radius: 0px 8px 8px 0px;
+            background-color: rgba(43, 43, 51, 0.10) !important;
+            font-weight: 600;
+            letter-spacing: -0.28px;
+        }
+
+    .text-menu img {
+        margin-right: 8px;
+    }
+
+.img-brand {
+    width: 72px;
+    height: 31px;
+    margin-right: 10px;
+}
+
+.div-text-container {
+    margin: 0;
+    padding: 0;
+}
+
+.avatar-custom {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #f0f0f0;
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+    .avatar-custom img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+.img-icon-parameter {
+    width: 32px;
+    height: 32px;
+}
+
+.img-icon-admin {
+    width: 30px;
+    height: 30px;
+}
+
+.mud-icon-button {
+    padding: 8px;
+    width: 30px;
+    height: 30px;
+}
+
+.wrap-text-item-menu {
+    background: none !important;
+    box-shadow: none !important;
+}
+
+.divider-header {
+    width: 70%;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: -4px;
+}
+
+.divider-lateral {
+    width: 2px;
+    border-right: 1px solid rgba(43, 43, 51, 0.10);
+    position: fixed;
+    top: 0;
+    left: 240px;
+    bottom: 0;
+    z-index: 900 !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mud-main-content, .mud-drawer {
+    z-index: 10;
+}
+
+.toggle-button {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20%;
+    border-block-color: #f0f0f0;
+    background-color: white;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    padding: 8px;
+    font-size: 18px;
+}
+
+.mud-nav-links {
+    border-radius: 0 8px 8px 0;
+    padding: 10px;
+    height: 48px;
+    transition: border-left 0.3s, font-weight 0.3s;
+}
+
+.div-links {
+    margin-bottom: 95%;
+    background-color: transparent;
+    font-weight: 500;
+    color: #2b2b33;
+}
+
+.mud-navmenu.mud-navmenu-default .mud-nav-link.active:not(.mud-nav-link-disabled) {
+    color: #2b2b33;
+    background-color: transparent;
+}
+
+.div-text-item-menu {
+    background-color: transparent;
+}
+
+    .div-text-item-menu a {
+        background-color: transparent !important;
+    }
+
+.mud-grid-spacing-xs-6 {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.mud-drawer.mud-drawer-responsive.mud-drawer-pos-left,
+.mud-drawer.mud-drawer-persistent.mud-drawer-pos-left {
+    right: auto;
+    width: 240px;
+    height: auto;
+    align-items: center;
+    gap: 5px;
+    align-self: stretch;
+}
+
+aside {
+    box-shadow: none !important;
+}

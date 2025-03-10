@@ -1,0 +1,99 @@
+﻿@page "/"
+@rendermode InteractiveServer
+
+<PageTitle>DD8 - Login</PageTitle>
+
+<div class="content">
+    <h2>Projetos</h2>
+
+    <nav class="navbar navbar-light bg-light">
+        <div class="container-fluid">
+            <form class="d-flex form-header">
+                <input class="form-control me-2 input-search" type="search" id="search" name="search" placeholder="Pesquisar projetos"
+                       aria-label="Search">
+                <span class="icon-search">
+
+                </span>
+                <MudButton Variant="Variant.Filled" Color="Color.Primary" OnClick="@evento1">
+                    Filtrar
+                </MudButton>
+
+                @code {
+                    private void evento1()
+                    {
+                        Console.WriteLine("Botão clicado!");
+                    }
+                }
+
+                <MudButton Variant="Variant.Filled" Color="Color.Primary" OnClick="@evento2">
+                    Ordenar
+                </MudButton>
+
+                @code {
+                    private void evento2()
+                    {
+                        Console.WriteLine("Botão clicado!");
+                    }
+                }
+                <MudButton Variant="Variant.Filled" Color="Color.Primary" OnClick="@evento3">
+                    Novo Projeto
+                </MudButton>
+
+                @code {
+                    private void evento3()
+                    {
+                        Console.WriteLine("Botão clicado!");
+                    }
+                }
+            </form>
+        </div>
+    </nav>
+    <!-- Container-->
+    <div class="container mt-4">
+        <div class="row">
+            <!-- Card 1 -->
+            <MudCard>
+                <MudCardHeader>
+                    <CardHeaderContent>
+                        <MudButton Variant="Variant.Filled" Color="Color.Primary">
+                            Suspensa
+                        </MudButton>
+                    </CardHeaderContent>
+                    <CardHeaderActions>
+                        <MudIconButton Icon="@Icons.Material.Filled.Settings" Color="Color.Default" />
+                    </CardHeaderActions>
+                </MudCardHeader>
+                <MudCardContent>
+                    <MudText><h5 class="card-title">Teste Ambiente Interno</h5></MudText>
+                    <MudText Typo="Typo.body2"><p class="card-text">Teste ambiente</p></MudText>
+                    <a href="#" class="btn">Início 04/11/2024</a>
+                </MudCardContent>
+            </MudCard>
+
+            <!-- Card 2 -->
+            <MudCard>
+                <MudCardHeader>
+                    <CardHeaderContent>
+                        <MudButton Variant="Variant.Filled" Color="Color.Primary">
+                            Não iniciada
+                        </MudButton>
+                    </CardHeaderContent>
+                    <CardHeaderActions>
+                        <MudIconButton Icon="@Icons.Material.Filled.Settings" Color="Color.Default" />
+                    </CardHeaderActions>
+                </MudCardHeader>
+                <MudCardContent>
+                    <MudText><h5 class="card-title">Novo Teste Atualização</h5></MudText>
+                    <MudText Typo="Typo.body2"><p class="card-text">Emilio</p></MudText>
+                    <a href="#" class="btn">Início 01/07/2024</a>
+                </MudCardContent>
+            </MudCard>
+        </div>
+    </div>
+
+    <span>Itens por página:</span>
+    <MudPagination Variant="Variant.Filled" Count="4" />
+
+
+</div>
+

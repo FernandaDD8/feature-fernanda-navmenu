@@ -1,0 +1,239 @@
+{
+  "title": {
+    "home": "DD8 - Home",
+    "login": "DD8 - Login",
+    "security": "DD8 - Segurança e Documentação",
+    "privacy": "DD8 - Políticas de Privacidade",
+    "cookies": "DD8 - Cookies",
+    "policies": "DD8 - Políticas de Tratamento de Dados",
+    "denied": "DD8 - Acesso Negado",
+    "success": "DD8 - Sucesso",
+    "try":"DD8 - Teste",
+    "contact": "DD8 - Contato"
+  },
+  "menu": {
+    "about": "Sobre nós",
+    "security": "Segurança",
+    "try": "Teste DD8",
+    "login": "Login"
+  },
+  "home": {
+      "principal": {
+        "title1": "EXPERTISE JURÍDICA",
+        "title2": "IMPULSIONADA POR TECNOLOGIA",
+        "text": "Inteligência incomparável em todas as etapas da due diligence, em qualquer tipo de transação."
+      },
+      "efficiency": {
+        "title": "EFICIÊNCIA E PRECISÃO",
+        "text" : "A DD8 é uma plataforma integrada, especialmente projetada para atuar em projetos de due diligence de ponta a ponta, resolvendo insatisfações e desafios comumente enfrentados por compradores, investidores, targets e assessores. Tenha dados e equipes sincronizados, além de insights valiosos que aceleram as suas negociações - tudo em um só lugar."
+      },
+      "focus": {
+        "title": "FOCO NO QUE IMPORTA",
+        "text": "Utilizamos Inteligência Artificial Generativa para oferecer análises consistentes que atendem aos padrões de qualidade e excelência globais. Revolucionamos o processo de due diligence para que as partes envolvidas se concentrem nas suas estratégias, enquanto recebem alertas sobre os riscos identificados."
+      },
+      "security": {
+        "title1": "SEGURANÇA DE ",
+        "title2": "ALTO NÍVEL",
+        "text1": "Comprometidos com a excelência em governança e segurança de dados, implementamos práticas líderes de mercado e padrões rigorosos de segurança, visando proteger e garantir a integridade dos dados dos nossos usuários em todos os níveis da nossa plataforma.",
+        "text2": "A governança de dados, na nossa visão, vai além do cumprimento normativo; é uma pedra angular na construção de um ecossistema digital seguro e confiável, onde a privacidade e a integridade dos dados dos usuários são prioritárias e inegociáveis."
+      },
+      "plainLanguage": {
+        "title": "PLAIN LANGUAGE",
+        "text": "Adotamos os princípios da plain language para garantir mensagens claras e uma experiência intuitiva em todo o processo, transformando complexidade em objetividade. Assim, minimizamos ruídos e vamos direto ao ponto, destacando o que realmente importa em seus relatórios."
+      },
+      "perspective": {
+        "title1": "UMA NOVA PERSPECTIVA EM DUE DILIGENCE",
+        "title2": "ESSE É O FUTURO DAS TRANSAÇÕES",
+        "button": "Saiba mais"
+      }
+  },
+  "login":{
+    "user": "E-mail",
+    "pass": "Senha",
+    "button": "Entrar",
+    "forgot-pass": "Esqueci minha senha",
+    "forgot-title": "Informe o email para receber o link de recuperação de senha",
+    "forgot-user": "Digite o e-mail",
+    "forgot-required": "E-mail obrigatório",
+    "forgot-button": "Enviar",
+    "forgot-invalid": "E-mail inválido"
+  },
+  "success":{
+    "contactMessage": "Agradecemos sua mensagem.",
+    "contactMessage2": "Estamos revisando seu contato e responderemos em breve.",
+    "tryMessage": "Obrigada pela sua inscrição!",
+    "tryMessage2": "Sua organização será adicionada à lista de espera para acesso antecipado à DD8. Assim que for selecionada, entraremos em contato para agendar uma demonstração."
+  },
+  "policies": {
+    "title": "POLÍTICA DE TRATAMENTO DE DADOS",
+    "paragraph1": "Segurança, transparência e privacidade são prioridades para a DD8 . Veja nesta política as principais informações sobre a forma como a DD8 trata os dados pessoais aos quais tem acesso.",
+    "paragraph2": "A DD8 mantém este website para disponibilizar informações institucionais e contato, assim como acesso à nossa plataforma e aos nossos serviços. Como proprietária do website, a DD8 é a controladora principal dos dados aqui coletados.",
+    "definitions": {
+      "title": "1 - Definições Importantes",
+      "details": "Para facilitar a leitura e compreensão, apresentamos algumas definições relevantes.",
+      "paragrapha": "\"DD8\" ou \"nós\": significa a sociedade INTELIGÊNCIA JURÍDICA E AUDITORIA DIGITAL LTDA., inscrita no CNPJ sob o n 52.699.008/0001-91, proprietária deste website (chamado, a partir daqui, de \"site\").",
+      "paragraphb": "\"Bases Legais\": são as hipóteses legais que autorizam o tratamento de Dados Pessoais (definidos abaixo). Todo e qualquer tratamento de Dados Pessoais é considerado válido se tiver fundamento em uma base legal.",
+      "paragraphc": "\"Controlador\": pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais.",
+      "paragraphd": "\"Dados Pessoais\": são as informações relacionadas à pessoa natural que a identifique - tais como nome, sobrenome, RG e CPF -, que a torne identificável – como no caso dos dados de geolocalização (GPS), endereço IP, identificação de dispositivo etc. – ou qualquer outro dado que, combinado com outras informações, seja capaz de identificar alguém, torná-la identificável ou, ainda, individualizá-la.",
+      "paragraphe": "\"Tratamento de Dados Pessoais\" ou \"Tratar Dados Pessoais\": Tudo que envolve o processamento e os usos dos Dados Pessoais, incluindo, por exemplo, a coleta, registro, armazenamento, organização, consulta, divulgação, compartilhamento, transmissão, classificação, reprodução, processamento e avaliação, etc.",
+      "paragraphf": "\"Titular dos Dados\" ou \"você\": é a pessoa natural a quem os Dados Pessoais estão relacionados.",
+      "paragraphg": "\"LGPD\": Lei Geral de Proteção de Dados Pessoais, Lei n.º 13.709/2018."
+    },
+    "about": {
+      "title": "2 - Sobre a DD8",
+      "paragraph1": "Somos uma empresa focada em soluções, com o uso de tecnologia, para o mercado de transações de M&A, venture capital, mercado de capitais e imobiliárias. Geramos inteligência a partir de dados para otimizar e agilizar o processo de due diligence e para que as partes envolvidas na transação possam focar em aspectos estratégicos e tomar decisões informadas. Para isso, usamos tecnologia para agregar e analisar dados de diversas fontes públicas e privadas.",
+      "paragraph2": "A segurança e privacidade dos titulares dos dados aqui tratados é um compromisso da DD8, assim como a garantia do seu direito de escolha em relação à forma de uso de seus dados pessoais."
+    },
+    "data": {
+      "title": "3 - Quais dados tratamos:",
+      "paragraph1": "Utilizamos informações tornadas públicas pela administração pública direta e indireta dos entes federativos brasileiros, especialmente as informações divulgadas com base na Lei de Acesso à Informação (Lei n.º 12.527/2011) e na política de dados abertos do Governo Federal, bem como outros dados publicamente acessíveis de fontes não governamentais. Em projetos específicos, também recebemos dados de parceiros, fornecedores e clientes. Nestes casos, sempre utilizamos cláusulas contratuais e relatórios aptos a estabelecer um alto nível de proteção e segurança aos dados tratados, com suporte nas autorizações que os nossos parceiros e clientes possuem para tratar dados pessoais, garantida a transparência ao titular sobre o tratamento realizado pela DD8.",
+      "paragraph2": "Como responsável pelo tratamento dos dados pessoais coletados em nossa página, a DD8 utiliza protocolos robustos no que diz respeito aos controles e práticas de segurança e proteção das informações que fazem parte do seu negócio. Como o gerenciamento e a análise de dados são essenciais para nossos serviços, estabelecemos regras internas para definir padrões para o tratamento de Dados Pessoais no contexto de nossas atividades, garantindo a efetiva governança sobre os processos internos e a devida adequação aos requisitos legais aplicáveis.",
+      "paragraph3": "A edição, a publicação e o cumprimento desta Política são medidas tomadas pela DD8 para se adequar à LGPD.",
+      "paragraph4": "Se você ainda tiver dúvidas, fique à vontade para entrar em contato conosco enviando uma mensagem para dpo@dd8.ai."
+    },
+    "dataProcessing": {
+      "title": "4 - Tratamento de Dados",
+      "paragraph1": "A DD8 trata Dados Pessoais de acordo com as respectivas categorias, por meio de origens distintas:",
+      "paragraph1a": "Através das plataformas de entidades da administração pública direta e indireta que divulgam dados em conformidade com as políticas de dados abertos do poder público, assim como mediante acesso a outras plataformas contendo dados publicamente acessíveis, sempre utilizando tecnologias e metodologias próprias;",
+      "paragraph1b": "A partir do recebimento de dados fornecidos por parceiros de negócio, com os quais a DD8 possui relação contínua (“Parceiros”), sempre com garantias de licitude para o tratamento de Dados Pessoais e utilização das salvaguardas técnicas, legais e organizacionais necessárias;",
+      "paragraph1c": "A partir do recebimento de conjuntos de dados de fornecedores, responsáveis por fornecimentos pontuais de dados (“Fornecedores”), sempre com garantias de licitude para o tratamento de Dados Pessoais e utilização das salvaguardas técnicas, legais e organizacionais necessárias;",
+      "paragraph1d": "Quando nossos clientes e usuários da plataforma compartilham dados por eles controlados para que a DD8 possa processá-los, gerar inteligência, insights e relatórios. Os clientes da DD8, na posição de controladores dos referidos dados, são os responsáveis por definir as finalidades, a forma e a duração do tratamento dos Dados Pessoais;",
+      "paragraph1e": "Os dados tratados pela DD8 são sempre utilizados para as finalidades relacionadas aos nossos produtos e soluções."
+    },
+    "dataSharing": {
+      "title": "5 - Compartilhamento dos Dados Pessoais",
+      "paragraph1": "A DD8 opera em parceria com uma série de outras empresas para oferecer nossos produtos e serviços. Dessa forma, podemos compartilhar seus Dados Pessoais com empresas parceiras, mantendo os mais altos padrões de segurança, preservando a sua privacidade e, sempre que possível, de forma anonimizada. Descrevemos abaixo com quem e com qual finalidades podemos compartilhar Dados Pessoais:",
+      "paragraph1a": "Nossos prestadores de serviço e fornecedores de tecnologia. Contratamos parceiros para operar certos serviços, e alguns deles podem tratar os Dados Pessoais que coletamos como, por exemplo, empresas que prestam serviços de hospedagem de dados, de segurança patrimonial, de autenticação e validação de cadastros, entre outros. Nos comprometemos a avaliar cuidadosamente nossos fornecedores e firmar com eles obrigações contratuais de segurança da informação e proteção de Dados Pessoais, minimizando riscos para os Titulares dos Dados.",
+      "paragraph1b": "Nossos clientes. Para fornecer nossos serviços compartilhamos com nossos clientes Dados Pessoais coletados em plataformas de entidades da administração pública direta e indireta, bem como demais dados recebidos de nossos Fornecedores e Parceiros.",
+      "paragraph1c": "Autoridades Públicas. Sempre que exigido judicialmente, a DD8 compartilhará Dados Pessoais. Nos posicionaremos, sempre que possível, contra qualquer abuso de autoridade e, caso entendamos que determinada ordem é abusiva, defenderemos a privacidade dos Titulares dos Dados. ",
+      "paragraph2": "Além das situações descritas acima, reservamo-nos o direito de compartilhar quaisquer Dados Pessoais que julgarmos necessários para cumprir obrigações legais ou, ainda, para proteger os direitos, propriedade ou segurança da DD8, bem como dos nossos funcionários e clientes."
+    },
+    "dataTransfer": {
+      "title": "6 - Transferência de Dados Pessoais",
+      "paragraph1": "Embora a DD8 possua sua sede no Brasil e os seus produtos e serviços sejam destinados, a princípio, ao mercado brasileiro – aplicando-se, portanto, as leis brasileiras relacionadas à proteção de Dados Pessoais – os Dados Pessoais que coletamos podem ser transferidos para outros países, como os Estados Unidos da América. Essas transferências podem ocorrer para prestadores de serviços e fornecedores de tecnologia localizados no exterior e contratados pela DD8 para garantir maior nível de segurança na preservação dos dados tratados por nós. Esta situação é viabilizada por meio de técnicas que garantem a redundância dos ativos de dados da DD8, evitando, por exemplo, consequências altamente danosas decorrentes de catástrofes que possam destruir ou afetar datacenters específicos, bem como em razão da relação da DD8 com certos prestadores de serviços e fornecedores, como provedores de estruturas tecnológica de armazenamento de dados, que podem estar fisicamente localizadas em tais regiões.",
+      "paragraph2": "A DD8 procura garantir que essas transferências envolvam apenas empresas que demonstram estar em conformidade ou em processo de conformidade com as leis de privacidade e proteção de dados aplicáveis, e mantenham um nível de compliance semelhante ou até mesmo mais rigoroso do que o previsto na legislação brasileira aplicável."
+    },
+    "rights": {
+      "title": "7 - Direitos e Garantias dos Titulares de Dados Pessoais",
+      "paragraph1": "Você é o titular e proprietário dos seus Dados Pessoais e a lei brasileira lhe garante uma série de direitos relacionados a eles. Nós estamos comprometidos com a observação desses direitos e, nesta seção, vamos explicar como você pode exercê-los junto à DD8:",
+      "paragraph2": "Como obtemos dados de outros controladores (normalmente entidades da administração pública direta e indireta, Fornecedores, Parceiros e clientes da DD8), não é possível garantir que todo pedido de exercício de direitos dirigido à DD8 será atendido em sua integralidade. No entanto, nas hipóteses em nós formos os controladores dos dados com os quais um pedido de exercício de direitos estiver relacionado, todas as medidas serão tomadas para atender tal pedido, inclusive junto às nossas empresas contratadas e subcontratadas. Por exemplo: caso você solicite a correção de parte dos seus Dados Pessoais, podemos realizar uma atualização das bases controladas pela DD8, mas isso não significa que as bases originais de onde seus Dados Pessoais foram coletados (como, por exemplo, uma plataforma de dados abertos de alguma entidade do governo) também respondam à sua requisição de exercício do direito de correção. Nesses casos, caberá ao Titular dos Dados apresentar um pedido ao controlador originário dos seus Dados Pessoais para permitir que os seus direitos sejam exercidos de forma plena.",
+      "paragraph3": "A DD8 dispõe de ferramentas que permitem que você confirme se temos Dados Pessoais sobre você, bem como permite que você tenha acesso aos Dados Pessoais mediante requisição. Você pode solicitar essas informações pelo e-mail dpo@dd8.ai.",
+      "paragraph4": "Ao verificar que algum de seus Dados Pessoais está incorreto ou desatualizado, você poderá solicitar a realização de correções dos seus Dados Pessoais diretamente pelo e-mail dpo@dd8.ai. No entanto, é importante notar que, como coletamos alguns dados em plataformas de órgãos da administração pública, é possível que, em acréscimo à versão de seus Dados Pessoais corrigidos mediante sua solicitação, sejam também mantidos registros sobre a versão original de seus dados na forma como disponibilizada pelos órgãos da administração pública. A manutenção de dados dessa natureza se dará para garantir a integridade e a rastreabilidade de todos os dados que tratamos, sendo garantido a você o direito de correção dos seus Dados Pessoais quando estes estiverem em bases controladas pela DD8 – isso significa que nós não poderemos controlar ou promover quaisquer alterações aos seus Dados Pessoais constantes das bases de dados disponibilizadas pela administração pública.",
+      "paragraph5": "Garantimos o seu direito de solicitar a exclusão, total ou parcial, dos seus Dados Pessoais. No entanto, é importante frisar que nem todos os Dados Pessoais constantes em nossas bases podem ser excluídos, especialmente, mas não se limitando, em hipóteses de necessidade de cumprimento de obrigações legais. Mesmo nesses casos, manteremos o nosso compromisso de sigilo e de proteção desses dados, mantendo-os apenas para as finalidades específicas relacionadas ao cumprimento das obrigações existentes. Caso queira excluir, total ou parcialmente seus dados, basta enviar uma solicitação para o e-mail dpo@dd8.ai.",
+      "paragraph6": "De maneira geral, nós não estabelecemos contato direto com titulares de Dados Pessoais no dia-a-dia, portanto, é normal que possamos utilizar bases legais que permitem o tratamento de Dados Pessoais sem depender do seu consentimento, como é o caso do legítimo interesse, da DD8 ou de terceiros. Exercemos esse direito com responsabilidade e visando o menor impacto possível aos titulares dos dados tratados. Em todo caso, se você acreditar que alguma finalidade específica de tratamento impacta seus direitos de maneira negativa, você pode enviar um e-mail para dpo@dd8.ai e apresentar uma oposição ao tratamento dos seus Dados Pessoais para a finalidade que entender excessiva. Em alguns casos, nós podemos demonstrar que temos motivos legítimos para mesmo assim continuar tratando os seus Dados Pessoais, mas sempre vamos justificar isso para você da melhor forma possível, dando-lhe ampla informação sobre as nossas motivações para manter Dados Pessoais.",
+      "paragraph7": "A DD8 vale-se das hipóteses previstas na lei para tratar Dados Pessoais sem obter o consentimento específico do Titular dos Dados, que ocorre apenas nos casos em que tal situação é permitida. No entanto, a depender de como você interage com nossos produtos e serviços, e apenas em algumas situações específicas, é possível que você forneça seu consentimento para que a DD8 trate seus Dados Pessoais. Caso queira ou julgue necessário, você pode revogar o seu consentimento a qualquer momento enviando um e-mail para dpo@dd8.ai especificando a situação. Nesse caso, informaremos eventuais consequências da revogação do seu consentimento (por exemplo, restrições ao uso de determinado serviço ou funcionalidade de alguma das nossas soluções).",
+      "paragraph8": "Você pode solicitar uma cópia dos seus Dados Pessoais que tratamos, pelo e-mail dpo@dd8.ai. Após a confirmação da sua identidade, poderemos enviá-los."
+    },
+    "general": {
+      "title": "8 - Disposições Gerais",
+      "paragraph1": "A política de retenção de Dados Pessoais da DD8 é alinhada com as leis aplicáveis. Dados Pessoais são armazenados somente pelo tempo que for necessário para cumprir com as finalidades para as quais tenham sido coletados, salvo se houver qualquer outra razão para a sua manutenção como, por exemplo, cumprimento de obrigações legais, regulatórias, contratuais, entre outras, desde que fundamentadas de forma adequada na legislação.",
+      "paragraph2": "Nossa responsabilidade é cuidar de todos os Dados Pessoais que tratamos e utilizá-los somente para as finalidades descritas nesta Política. Para garantir a privacidade de todos e a proteção dos Dados Pessoais que tratamos, nós adotamos as melhores práticas de segurança adequadas à nossa atuação, com o uso de controle de acesso, criptografia, monitoramento avançado de ameaças, prevenção de vazamento de dados (DLP) e outros sistemas e procedimentos de segurança da informação. As práticas de gestão de segurança da ISO 27001 e os controles ISO 27002 são incorporados às operações da DD8 por meio de equipes especializadas, sistemas e ferramentas que estão em linha com os mais altos padrões disponíveis.",
+      "paragraph3": "A DD8 exige que todos os seus colaboradores envolvidos no tratamento de dados assinem Termos de Confidencialidade, promove treinamentos em matéria de Segurança da Informação, Privacidade e Proteção de Dados, aplica as medidas apropriadas para garantir a integridade dos dados e também assegura a sua disponibilidade por meio de backup e plano de resposta a incidentes, entre outras medidas de mitigação de danos.",
+      "paragraph4": "Nos esforçamos para proteger todos os Dados Pessoais que tratamos, mas infelizmente, não podemos garantir total segurança, especialmente diante de atos maliciosos de terceiros. Falhas de hardware ou software que não estejam sob controle da DD8 e outros fatores podem comprometer a segurança dos Dados Pessoais que controlamos. Caso identifique ou tome conhecimento de algo que comprometa a segurança dos seus dados, por favor entre em contato conosco pelo e-mail dpo@dd8.ai.",
+      "paragraph5": "Para entender mais sobre como lidamos com segurança da informação, acesse nossa página de segurança. Se você acredita que seus Dados Pessoais foram usados de maneira incompatível com esta Política ou com as suas escolhas enquanto titular destes Dados Pessoais, ou, ainda, se você tiver dúvidas, comentários ou sugestões relacionadas a esta Política, fique à vontade para entrar em contato conosco. Estamos à disposição pelo e-mail dpo@dd8.ai.",
+      "paragraph6": "Estamos sempre dispostos a aprimorar nossas soluções, e por isso, esta Política de Tratamento de Dados pode passar por atualizações para refletir melhorias realizadas. Recomendamos a visita periódica desta página para conferir eventuais atualizações."
+    },
+    "contact": {
+      "title": "9 - Informações adicionais e contato",
+      "paragraph1": "Se ainda tiver dúvidas ou precisar de mais detalhes sobre como coletamos e utilizamos seus Dados Pessoais, bem como quais são os seus direitos em relação à proteção de dados, fale conosco pelo e-mail: dpo@dd8.ai."
+    }
+  },
+  "privacy": {
+    "title": "POLÍTICA DE PRIVACIDADE",
+    "paragraph1": "Segurança, transparência e privacidade são prioridades para a DD8. Esta Política de Privacidade tem por objetivo explicar como utilizamos e quais dados pessoais coletamos quando você utiliza nosso site e plataforma.",
+    "paragraph2": "A DD8 (INTELIGÊNCIA JURÍDICA E AUDITORIA DIGITAL LTDA., inscrita no CNPJ sob o no. 52.699.008/0001-91) mantém este website (chamado, a partir daqui, de \"site\")  para disponibilizar informações institucionais e contato, assim como acesso à plataforma com nossos serviços. Como proprietária do site, a DD8 é a controladora principal dos dados aqui coletados.",
+    "paragraph3": "Seguindo os princípios da LGPD (Lei Geral de Proteção de Dados), nós procuramos obter apenas os dados necessários para atingir nossos objetivos, garantindo que serão utilizados para as finalidades para as quais foram coletados.",
+    "why": {
+      "title": "PORQUE COLETAMOS DADOS?",
+      "subtitle1": "Coleta e tratamento de dados a partir de formulários:",
+      "paragraph1": "Coletamos os dados fornecidos por você no preenchimento de quaisquer formulários de contato e interesse disponíveis no site, usando-os para a finalidade relacionada ao formulário, de acordo com sua descrição.",
+      "subtitle2": "Entrar em contato:",
+      "paragraph2": "Poderemos utilizar seus dados para entrarmos em contato com você a respeito de nossos produtos e serviços, bem como outros tipos de comunicações, como convites para eventos, webinários e atualizações que julgamos ser do seu interesse.",
+      "subtitle3": "Monitoramento do tráfego no site:",
+      "paragraph3": "Utilizamos cookies e outras tecnologias de monitoramento e coleta de dados automatizada para podermos recolher dados estatísticos sobre o uso do site, viabilizar a interface com serviços de terceiros, assegurar suas preferências e configurações, bem como entender o comportamento e interesses dos usuários para direcionar nossa estratégias de marketing.",
+      "subtitle4": "Obrigações legais:",
+      "paragraph4": "Estamos sujeitos a certas obrigações legais que incluem, por exemplo, coletar e reter registros de acesso (logs) e atividades no website."
+    },
+    "whatPersonal": {
+      "title": "QUAIS DADOS PESSOAIS COLETAMOS?",
+      "paragraph1": "Coletamos e tratamos apenas os dados estritamente necessários para alcançar as nossas finalidades legítimas. Dentro deste princípio, utilizamos os seguintes dados: (i) contato: nome, sobrenome, telefone, e-mail profissional, segmento de atividade, cargo, assunto e  conteúdos de mensagens; (ii) monitoramento e coleta automatizada: dados sobre suas interações com nossa interface e jornada de navegação,  páginas e conteúdos acessados ou buscados e todas outras ações, incluindo cookies. Cookies são pequenos arquivos de texto que são armazenados no seu navegador quando você visita o site. Eles contêm informações sobre a sua atividade online, como preferências de idioma, ou dados de login. Usamos os cookies para personalizar a sua experiência, rastrear o seu comportamento online e lembrar de informações importantes. Como medida de segurança, oferecemos opções para você controlar como os cookies são utilizados. Também tratamos os dados relacionados à performance de campanhas estratégicas e de captação de clientes, incluindo o número de impressões, cliques, custos por clique e conversões; e (iii) registros de acesso: coletamos e retemos todos os registros de acesso gerados através de sua interação com nosso site – incluindo número de IP, data e hora – no prazo determinado pela legislação."
+    },
+    "whatData": {
+      "title": "QUAIS DADOS COMPARTILHAMOS?",
+      "paragraph1": "Não compartilharemos os dados de sua interação com nosso site, bem como não os utilizaremos nos nossos produtos. As informações de identificação pessoal também não serão compartilhadas publicamente ou com terceiros, exceto quando exigido por lei."
+    },
+    "dpo": {
+      "title": "ENCARREGADO DE DADOS - DPO:",
+      "paragraph1": "O encarregado de dados – também chamado de DPO (Data Protection Officer) – é o responsável indicado para atuar como canal de comunicação entre a DD8 e os titulares dos dados. Em qualquer situação relativa a Dados Pessoais, nosso CPO pode ser contactado pelo e-mail: dpo@dd8.ai."
+    },
+    "questions": {
+      "title": "FICOU ALGUMA DÚVIDA?",
+      "paragraph1": "Se ainda tiver dúvidas ou precisar de mais detalhes sobre como coletamos e utilizamos seus dados pessoais, bem como quais são os seus direitos na proteção de dados, fale conosco através do e-mail: dpo@dd8.ai."
+    },
+    "cookies": {
+      "title": "POLÍTICA DE COOKIES",
+      "subtitle": "O que são cookies?",
+      "paragraph1": "Cookies são arquivos salvos em seu computador, tablet ou telefone quando você visita um site. Eles contêm informações sobre a sua atividade, como preferências de idioma, ou dados de login. Usamos os cookies necessários para fazer o site funcionar da melhor forma possível e sempre aprimorar os nossos serviços. Alguns cookies são classificados como necessários e permitem a funcionalidade central, como segurança, gerenciamento de rede e acessibilidade. Estes cookies podem ser coletados e armazenados assim que você inicia sua navegação ou quando usa algum recurso que os requer.",
+      "subtitle2": "Quais Cookies usamos?",
+      "item1": "Cookies Primários:",
+      "item1Details": "Alguns cookies serão colocados em seu dispositivo diretamente pelo nosso site - são conhecidos como cookies primários. Eles são essenciais para você navegar no site e usar seus recursos.",
+      "item1A": "Temporários",
+      "item1AParagraph": "Nós utilizamos cookies de sessão. Eles são temporários e expiram quando você fecha o navegador ou quando a sessão termina. São usados com a seguinte finalidade: estabelecer controle de idioma e segurança ao tempo da sessão.",
+      "item1B": "Persistentes",
+      "item1BParagraph": "Utilizamos também cookies persistentes que permanecem em seu disco rígido até que você os apague ou seu navegador o faça, dependendo da data de expiração do cookie. Todos os cookies persistentes têm uma data de expiração gravada em seu código, mas sua duração pode variar. São usados com a seguinte finalidade: coletar e armazenar a ciência sobre o uso de cookies no site.",
+      "item2": "Cookies de Terceiros:",
+      "item2Details": "Outros cookies são colocados no seu dispositivo não pelo site que você está visitando, mas por terceiros, como, por exemplo, os sistemas analíticos.",
+      "item2A": "Temporários",
+      "item2AParagraph": "Nós utilizamos cookies de sessão. Eles são temporários e expiram quando você fecha o navegador ou quando a sessão termina. São usados com a seguinte finalidade: coletar informações sobre como você usa o site, como as páginas que você visitou e os links em que clicou. Nenhuma dessas informações pode ser usada para identificá-lo. Seu único objetivo é possibilitar análises e melhorar as funções do site.",
+      "item2B": "Persistentes",
+      "item2BParagraph": "Utilizamos também cookies persistentes que permanecem em seu disco rígido até que você os apague ou seu navegador o faça, dependendo da data de expiração do cookie. Todos os cookies persistentes têm uma data de expiração gravada em seu código, mas sua duração pode variar. São usados com a seguinte finalidade: coletar informações sobre como você usa o site, como as páginas que você visitou e os links em que clicou. Nenhuma dessas informações pode ser usada para identificá-lo. Seu único objetivo é possibilitar análises e melhorar as funções do site. Você pode desabilitá-los alterando as configurações do seu navegador, mas saiba que isso pode afetar o funcionamento do site."
+    }
+  },
+  "security":{
+    "title": "SEGURANÇA E DOCUMENTAÇÃO",
+    "details": "Entenda os procedimentos de segurança da informação que garantem a proteção de dados dos nossos usuários contra acessos não autorizados, perdas, vazamentos, ataques cibernéticos ou quaisquer outras formas de comprometimento.",
+    "img-text": "Implementamos medidas robustas para proporcionar um ambiente digital seguro, protegendo as suas informações desde o armazenamento até o acesso e a hospedagem.",
+    "accordions" : {
+      "title1": "Proteção de dados em repouso e em trânsito",
+      "paragraph1": "Garantimos a segurança contra acessos não autorizados com criptografia AES (Advanced Encryption Standard) de 256 bits para todos os dados armazenados. Protegemos a transferência de dados através de criptografia SSL/TLS (Transport Layer Security) de 256 bits em todas as comunicações entre a plataforma e seus usuários. A criptografia é um elemento fundamental para a garantia da confidencialidade, integridade, e autenticidade dos dados e acesso em ambientes digitais. Os padrões adotados em nossa plataforma são sólidos e confiáveis.",
+      "title2": "Hospedagem em nuvem segura e confiável",
+      "paragraph2": "Nossa plataforma está hospedada em uma Nuvem Privada Virtual (VPC) da Google, um ambiente dedicado e isolado que oferece alto nível de segurança e confiabilidade.  A Google segue os principais padrões de segurança de TI, incluindo certificações SOC 2 Tipo II, SOC 3, PCI-DSS e ISO 27001, que asseguram a proteção de seus dados.",
+      "title3": "Governança de IA para uso responsável e ético",
+      "paragraph3": "Desenvolvemos nossa plataforma com recursos que permitem a compreensão, análise e avaliação de soluções de governança para o uso de dados pessoais em conjunto com ferramentas de inteligência artificial. Garantimos, assim, o gerenciamento e integridade de seus dados, documentação e prevenção de riscos, além de proporcionar a fiscalização dos projetos e o controle de saídas que contenham vieses, especialmente em decisões automatizadas.",
+      "title4": "Registro de auditoria para total transparência",
+      "paragraph4": "Nossos ambientes de produção possuem registro de segurança, monitoramento de tempo de atividade e métricas de disponibilidade do sistema para nossos principais serviços. Isso permite que nossa equipe de segurança aplique monitoramento automatizado e garanta a disponibilidade da plataforma 24h por dia nos 7 dias da semana.",
+      "title5": "Criptografia, backups e proteção contra perda de dados",
+      "paragraph5": "Todas as informações e dados exibidos na plataforma passam por um processo rigoroso de criptografia AES de 256 bits no armazenamento, garantindo a segurança da informação. Implementamos uma política robusta de backups para prevenção de exclusão de dados, protegendo contra perdas acidentais ou maliciosas."
+    }
+  },
+  "form-beta": {
+    "title": "Cadastre-se e tenha acesso antecipado à versão beta",
+    "details": "Suas informações serão protegidas de acordo com nossa<a routerLink=\"/\" fragment=\"privacy\">Política de Privacidade</a>. Ao enviar o formulário, você concorda com o uso dos seus dados pessoais para contato comercial.",
+    "firstName": "Primeiro Nome", 
+    "lastName": "Sobrenome", 
+    "email": "E-mail de trabalho", 
+    "company": "Empresa", 
+    "phone": "Celular (+DDD)", 
+    "industry": "Segmento", 
+    "role": "Cargo", 
+    "message": "Mensagem",
+    "button": "Enviar"
+  },
+  "form-contact": {
+    "title": "Entre em contato"
+  },
+  "footer": {
+    "details": "A plataforma DD8 é totalmente criptografada \n e mantém todas suas informações \n confidenciais 100% seguras e privadas",
+    "details-1": "A plataforma DD8 é totalmente criptografada e",
+    "details-2": "mantém todas suas informações confidenciais",
+    "details-3": "100% seguras e privadas",
+    "contact": "Contato",
+    "company": "Institucional",
+    "about": "Sobre nós",
+    "security": "Segurança",
+    "policies": "Políticas",
+    "privacy": "Privacidade",
+    "dataProcessing": "Tratamento de dados",
+    "cookies": "Cookies"
+  }
+}

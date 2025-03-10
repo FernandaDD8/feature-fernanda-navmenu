@@ -1,0 +1,62 @@
+﻿@using MudBlazor.Components
+
+<MudNavMenu>
+    <MudContainer Fluid="true" Elevation="1">
+        <MudGrid AlignItems="Center">
+            <MudItem>
+                <MudLink Href="" Class="d-flex align-items-center">
+                    <img class="img-brand" src="assets/images/logo.png" alt="logo DD8" />
+                    <div class="div-text-container">
+                        <strong class="text-div">Due Diligence Redefined</strong>
+                        <p class="text-div">Legal Expertise, AI-Powered</p>
+                    </div>
+                </MudLink>
+            </MudItem>
+            <MudItem class="item-grid-painel"></MudItem>
+        </MudGrid>
+        <MudDivider Class="divider-header" />
+    </MudContainer>
+
+    <!-- Menu de Navegação -->
+    <MudPaper Elevation="0" Class="div-links">
+        <MudList T="string" Class="div-text-item-menu">
+            @foreach (var item in new[] {
+            new { Href = "/new", Icon = "add-proj-icon.svg", Label = "Criar Projeto" },
+            new { Href = "/", Icon = "projects-icon.svg", Label = "Projetos" },
+            new { Href = "/chat", Icon = "deep_dive.svg", Label = "DeepDive" },
+            new { Href = "/historico", Icon = "historico.svg", Label = "Histórico" },
+            new { Href = "/support", Icon = "suporte.svg", Label = "HelpCenter" }
+            })
+            {
+                <MudListItem Class="wrap-text-item-menu">
+                    <MudNavLink Href="@item.Href" Match="NavLinkMatch.Prefix" Class="text-menu mud-nav-links">
+                        <img class="img-icons" src="assets/images/sidenav-icons/@item.Icon" />
+                        @item.Label
+                    </MudNavLink>
+                </MudListItem>
+            }
+        </MudList>
+    </MudPaper>
+
+    <MudDivider Elevation="1" Class="divider-painel" />
+
+    <!-- Seção do Usuário -->
+    <MudGrid AlignItems="Center" JustifyContent="SpaceBetween" Class="grid-painel-admin">
+        <MudItem class="item-grid-painel">
+            <img src="assets/images/sidenav-icons/user-avatar.png" class="avatar-custom" />
+        </MudItem>
+        <MudItem class="item-grid-painel">
+            <div>
+                <strong class="text-div">Admin DD8</strong>
+                <p class="text-div">admin@dd8.ai</p>
+            </div>
+        </MudItem>
+        <MudItem class="item-grid-painel">
+            <MudButton>
+                <img src="assets/images/sidenav-icons/parameter-icon.svg" class="icon-parameter" />
+            </MudButton>
+        </MudItem>
+    </MudGrid>
+</MudNavMenu>
+
+

@@ -1,0 +1,238 @@
+{
+  "title": {
+    "home": "DD8 - Home",
+    "login": "DD8 - Login",
+    "security": "DD8 - Security and Documentation",
+    "privacy": "DD8 - Privacy Policies",
+    "cookies": "DD8 - Cookies",
+    "policies": "DD8 - Data Processing Policies",
+    "denied": "DD8 - Access Denied",
+    "success": "DD8 - Success",
+    "try":"DD8 - Try",
+    "contact": "DD8 - Contact"
+  },
+  "menu": {
+    "about": "About",
+    "security": "Security",
+    "try": "Try DD8",
+    "login": "Login"
+  },
+  "home": {
+    "principal": {
+      "title1": "LEGAL EXPERTISE",
+      "title2": "TECH-POWERED",
+      "text": "Unparalleled intelligence throughout every stage of due diligence, for any type of transaction."
+    },
+    "efficiency": {
+      "title": "EFFICIENCY AND ACCURACY",
+      "text" : "DD8 is an integrated platform, specifically designed to operate end-to-end due diligence projects, addressing dissatisfactions and challenges commonly faced by buyers, investors, targets, and advisors. Have achieved synchronized data and working teams, along with valuable insights that accelerate your negotiations - all in one place."
+    },
+    "focus": {
+      "title": "CONCENTRATE ON THE ESSENTIALS",
+      "text": "We use Generative Artificial Intelligence (GenAI) to provide consistent analysis that meets global standards of quality and excellence. We revolutionize the due diligence process so that all parties involved can focus on their strategies while receiving alerts about identified risks and red flags."
+    },
+    "security": {
+      "title1": "HIGH LEVEL",
+      "title2": "SECURITY",
+      "text1": "Dedicated to excellence in governance and data security, we implement industry-leading practices and strict security standards, aiming to protect and ensure the integrity of our users' data at all levels of our platform.",
+      "text2": ""
+    },
+    "plainLanguage": {
+      "title": "PLAIN LANGUAGE APPROACH",
+      "text": "We embrace the principles of plain language to ensure clear messaging and an intuitive experience throughout the process, turning complexity into clarity. Therefore, we are accurate and minimize communication noise, highlighting what truly matters in your reports."
+    },
+    "perspective": {
+      "title1": "A NEW PERSPECTIVE ON DUE DILIGENCE",
+      "title2": "THIS IS THE FUTURE OF TRANSACTIONS",
+      "button": "Discover"
+    }
+  },
+  "login":{
+    "user": "E-mail",
+    "pass": "Password",
+    "button": "Enter",
+    "forgot-pass": "I forgot my password",
+    "forgot-title": "Enter your e-mail address that you use with your account to receive a password recovery link",
+    "forgot-user": "Enter your e-mail adress",
+    "forgot-required": "Required e-mail",
+    "forgot-button": "Send",
+    "forgot-invalid": "Invalid e-mail"
+  },
+  "success":{
+    "contactMessage": "Thank you for your message.",
+    "contactMessage2": "We are currently assessing your inquiry and will provide a response promptly.",
+    "tryMessage": "Thank you for registering!",
+    "tryMessage2": "Your organization has been placed on our list for early access to DD8 and soon you will receive an invite to schedule a demonstration."
+  },
+  "policies": {
+    "title": "DATA PROCESSING POLICY",
+    "paragraph1": "Security, transparency, and privacy are fundamental for DD8. This policy outlines the essential information regarding how DD8 processes personal data DD8 operates this website to offer institutional information and contact details, along with access to our platform and services. As the owner of the website, DD8 serves as the principal data controller for the data collected herein.",
+    "paragraph2": "",
+    "definitions": {
+      "title": "1 - Key Definitions:",
+      "details": "Here are the pertinent definitions:",
+      "paragrapha": "\"DD8\" or \"we\": refers to INTELIGÊNCIA JURÍDICA E AUDITORIA DIGITAL LTDA., registered under CNPJ number 52.699.008/0001-91, the owner of this website (hereinafter \"website\").",
+      "paragraphb": "\"Legal Basis\": the legal provisions that authorize the processing of Personal Data (as defined below). Any processing of Personal Data is deemed legitimate if it is founded on a legal basis.",
+      "paragraphc": "\"Controller\": an individual or legal entity, either public or private, responsible for making decisions regarding the processing of personal data.",
+      "paragraphd": "\"Personal Data\": information pertaining to an identifiable individual, such as name, surname, identity card, and tax identification number, or data that can identify an individual, like geolocation (GPS), IP address, device identifiers, etc., or any other information which, when combined with other data, can identify, make identifiable, or individualize a person.",
+      "paragraphe": "\"Processing of Personal Data\" or \"Processing Personal Data\": encompasses all activities involving the handling and utilization of Personal Data, including collection, registration, storage, organization, retrieval, dissemination, sharing, transmission, sorting, reproduction, processing, and evaluation, among others.",
+      "paragraphf": "\"Data Subject\" or \"you\": the natural person to whom the Personal Data pertains.",
+      "paragraphg": "\"LGPD\": General Personal Data Protection Law, Law No. 13.709/2018."
+    },
+    "about": {
+      "title": "2 - About DD8",
+      "paragraph1": "We are a company dedicated to providing technology-driven solutions for the M&A, venture capital, capital markets, and real estate industries. Our expertise lies in harnessing data to enhance and accelerate the due diligence process, allowing stakeholders during transactions to focus on strategic matters and make well-informed decisions. We achieve this by employing advanced technology to compile and analyze data from a myriad of public and private sources.",
+      "paragraph2": "The security and privacy of data subjects treated here is a commitment by DD8, as well as guaranteeing their right to choose the use of their personal information."
+    },
+    "data": {
+      "title": "3 - Data We Process:",
+      "paragraph1": "We leverage information that has been made public by the direct and indirect public administration of Brazilian entities, notably that disclosed in accordance with the Access to Information Law (Law No. 12.527/2011) and the Federal Government's open data policy. Additionally, we access publicly available data from non-governmental sources. For specific projects, we also gather data from partners, suppliers, and clients. In these situations, we strictly adhere to contractual clauses and prepare reports that ensure a high level of data protection and security, underpinned by the legal permissions our partners and clients have to process personal data, thus maintaining transparency with the data subjects about the processing undertaken by DD8.",
+      "paragraph2": "As the custodian of the personal data collected on our platform, DD8 enforces stringent protocols regarding the controls and security practices for safeguarding the business-critical information. Given the pivotal role of data management and analysis in our services, we have instituted internal policies to delineate the processing standards for Personal Data in line with our operational activities, ensuring robust governance of internal processes and full compliance with applicable legal standards.",
+      "paragraph3": "The creation, publication, and adherence to this Policy demonstrate DD8's commitment to conforming with the LGPD.",
+      "paragraph4": "Should you have any inquiries, please do not hesitate to contact us by sending an email to dpo@dd8.ai."
+    },
+    "dataProcessing": {
+      "title": "4 - Data Processing",
+      "paragraph1": "DD8 processes Personal Data based on its categorization, utilizing various sources:",
+      "paragraph1a": "Through platforms of direct and indirect public administration that publish data compliant with public sector open data policies, as well as by accessing platforms containing publicly available data, always employing its own technologies and methodologies.",
+      "paragraph1b": "From data received from business partners, with whom DD8 has established ongoing relations (\"Partners\"), ensuring the lawful processing of Personal Data and the implementation of necessary technical, legal, and organizational safeguards.",
+      "paragraph1c": "From datasets provided by suppliers, who deliver specific data on an ad-hoc basis (\"Suppliers\"), maintaining the lawful processing of Personal Data and the application of required technical, legal, and organizational safeguards.",
+      "paragraph1d": "When our clients and platform users share controlled data, enabling DD8 to process this data to produce intelligence, insights, and reports. DD8’s clients, acting as data controllers, are accountable for setting the objectives, manner, and timeframe of the Personal Data processing.",
+      "paragraph1e": "The data managed by DD8 is invariably utilized for purposes associated with our products and solutions."
+    },
+    "dataSharing": {
+      "title": "5 - Personal Data Sharing",
+      "paragraph1": "DD8 partners with a range of companies to provide our products and services. Therefore, we may share your Personal Data with our partner entities, maintaining the highest security standards, safeguarding your privacy, and anonymizing the data whenever feasible. Below are the entities with whom and the purposes for which we may share Personal Data:",
+      "paragraph1a": "Our service providers and technology vendors. We engage partners to facilitate certain services, some of whom may process the Personal Data we collect, such as companies offering data hosting, security services, and authentication and verification of registrations. We are committed to thoroughly assessing our vendors and establishing with them contractual obligations for information security and Personal Data protection, thereby minimizing risks to the Data Subjects.",
+      "paragraph1b": "Our clients. To provide our services, we share Personal Data collected from direct and indirect public administration platforms, as well as additional data obtained from our Suppliers and Partners, with our clients.",
+      "paragraph1c": "Public authorities. When legally required, DD8 will share Personal Data. We will always seek to challenge any misuse of authority and, if we believe an order is overreaching, we will advocate for the privacy of the Data Subjects.",
+      "paragraph2": "Beyond the scenarios outlined above, we reserve the right to share any Personal Data deemed necessary to comply with legal obligations or to protect the rights, property, or safety of DD8, our employees, and our clientele."
+    },
+    "dataTransfer": {
+      "title": "6 - Personal Data Transfer",
+      "paragraph1": "Although DD8 is based in Brazil and primarily targets the Brazilian market, thus adhering to Brazilian Personal Data protection laws, the Personal Data we collect may be transferred internationally, for instance, to the United States of America. Such transfers occur with service providers and technology vendors abroad whom DD8 engages to enhance the security level in protecting the processed data. This practice is enabled through techniques that ensure data asset redundancy of DD8, mitigating the risk of significant loss from potential disasters that could compromise specific data centers. It also relates to DD8's engagements with certain service providers and vendors, like data storage technology infrastructure providers, who are physically situated in such jurisdictions.",
+      "paragraph2": "DD8 is committed to ensuring that these international transfers are conducted with entities that demonstrate compliance or are advancing towards compliance with the applicable data privacy and protection laws, upholding a standard of compliance comparable to, or more stringent than, that required under Brazilian law."
+    },
+    "rights": {
+      "title": "7 - Rights and Guarantees of Personal Data Subjects",
+      "paragraph1": "You are the rightful owner of your Personal Data, and under Brazilian law, you are entitled to a suite of rights regarding this data. We at DD8 are dedicated to respecting these rights, and this section details how you can exercise them with us:",
+      "paragraph2": "Given that we acquire data from various controllers, including direct and indirect public administration entities, Suppliers, Partners, and DD8 clients, we cannot assure the full fulfillment of every request to exercise rights directed at DD8. Nonetheless, when we are the data controllers for the data in question, we will undertake all necessary actions to comply with such requests, working also with our external and subcontracted entities. For example, if you request an amendment to your Personal Data, we may update the records within DD8's control; however, this does not guarantee that the original sources of your Personal Data (such as a government open data platform) will similarly amend their records. In such cases, it is the Data Subject’s responsibility to approach the original data controller to fully exercise their rights.",
+      "paragraph3": "DD8 has implemented tools enabling you to verify if we possess any of your Personal Data and to access these data upon request. To make such requests, you can contact us at dpo@dd8.ai.",
+      "paragraph4": "Should you discover inaccuracies or outdated information within your Personal Data, you have the option to request updates or corrections through dpo@dd8.ai. However, please be aware that while we can amend data within DD8’s controlled databases, the original datasets from public administration platforms may retain their initial state. This approach ensures the integrity and traceability of the data processed by DD8, offering you the right to correct your Personal Data within our controlled scope. This implies that we do not have the authority to modify any Personal Data stored in the databases of public administration entities.",
+      "paragraph5": "We uphold your right to request the deletion of your Personal Data, either wholly or partially. However, it is pertinent to highlight that not all Personal Data held in our databases can be erased, particularly when retention is necessitated by legal obligations. In such circumstances, our commitment to data secrecy and protection prevails, retaining data solely for specific legally mandated purposes. Should you wish to delete your data entirely or in part, please send a request to dpo@dd8.ai.",
+      "paragraph6": "Typically, we do not engage directly with the subjects of Personal Data in our routine operations, hence we might process Personal Data based on legal grounds that do not require your consent, such as for the legitimate interests of DD8 or third parties. This right is exercised with due diligence, ensuring minimal impact on the data subjects. If you perceive any specific processing activity to impinge upon your rights adversely, you are entitled to object by communicating your concerns to dpo@dd8.ai, especially if you find the processing excessive. In certain cases, we may demonstrate compelling legal grounds for continuing the processing of your Personal Data, but we will always provide a clear justification, furnishing extensive information about our rationale for retaining Personal Data.",
+      "paragraph7": "DD8 leverages legal allowances for processing Personal Data without explicit consent from the Data Subject, applicable only in legally permissible scenarios. Nonetheless, in specific interactions with our products and services, you might give your consent for DD8 to process your Personal Data. Should you choose or find it necessary, your consent can be revoked at any moment by sending an email to dpo@dd8.ai, specifying your concerns. Following such revocation, we will communicate any potential impacts, such as limitations on accessing certain services or functionalities of our offerings.",
+      "paragraph8": "You are entitled to request a copy of the Personal Data that we process. This request can be made via email to dpo@dd8.ai. Upon confirming your identity, we will facilitate access to your data."
+    },
+    "general": {
+      "title": "8 - General Provisions",
+      "paragraph1": "DD8's Personal Data retention policy is in strict accordance with applicable legal standards. Personal Data is stored only for the duration necessary to achieve the purposes for which it was collected, unless there is a justified legal, regulatory, or contractual need for its longer retention.",
+      "paragraph2": "It is our duty to protect all Personal Data we handle and to ensure it is used exclusively for the purposes stated in this Policy. To secure the privacy and protection of the Personal Data we manage, we adopt industry-leading security practices, including access controls, encryption, advanced threat detection, data loss prevention (DLP), and comprehensive information security measures. We incorporate the management practices of ISO 27001 and the controls of ISO 27002 into DD8’s operations, supported by specialized teams, advanced systems, and tools that meet the highest industry standards.",
+      "paragraph3": "DD8 requires all personnel involved in data processing to sign Confidentiality Agreements, provides regular training in Information Security, Privacy, and Data Protection, and takes suitable actions to ensure data integrity. Furthermore, we maintain data availability through rigorous backup procedures and incident response plans, among other risk mitigation strategies.",
+      "paragraph4": "While we endeavor to secure all Personal Data we process, absolute security cannot be guaranteed, especially in the face of malicious third-party actions. Hardware or software failures outside DD8’s control, among other factors, may affect the security of the Personal Data under our management. Should you discover or suspect any compromise to the security of your data, please inform us at dpo@dd8.ai.",
+      "paragraph5": "For further insight into our information security practices, please access our security page. If you feel that your Personal Data has been used in a way that is inconsistent with this Policy, or if you have any inquiries, comments, or suggestions related to this Policy, do not hesitate to get in touch with us. We are available at dpo@dd8.ai.",
+      "paragraph6": "We are committed to continuously improving our offerings, which may lead to updates in this Data Processing Policy to better reflect these enhancements. We encourage you to regularly visit this page to stay informed of any changes."
+    },
+    "contact": {
+      "title": "9 - Additional Information and Contact",
+      "paragraph1": "Should you have any remaining questions or require further details about our collection and use of your Personal Data, as well as your rights regarding data protection, please reach out to us at dpo@dd8.ai."
+    }
+  },
+  "privacy": {
+    "title": "PRIVACY POLICY",
+    "paragraph1": "At DD8, we prioritize security, transparency, and privacy. This Privacy Policy is designed to clarify how we utilize and what personal data we gather when you use our website and platform.",
+    "paragraph2": "DD8 (INTELIGÊNCIA JURÍDICA E AUDITORIA DIGITAL LTDA., registered under CNPJ no. 52.699.008/0001-91), maintains this website to offer institutional information and contacts, as well as access to our services through our platform. As the owner of this site, DD8 acts as the principal controller of the data collected here.",
+    "paragraph3": "Adhering to the LGPD (General Data Protection Law) principles, we are committed to collecting only the necessary data to fulfill our purposes, ensuring that such data is utilized exclusively for the reasons it was collected.",
+    "why": {
+      "title": "WHY DO WE COLLECT DATA?",
+      "subtitle1": "Form Data Collection and Processing:",
+      "paragraph1": "We collect the information you provide through any contact and interest forms on our site, using this data exclusively for the purposes indicated in the respective form descriptions.",
+      "subtitle2": "Communication Purposes:",
+      "paragraph2": "Your data may be utilized to reach out to you regarding our products and services, as well as to send other communications such as event invitations, webinars, and updates that we consider relevant to your interests.",
+      "subtitle3": "Website Traffic Analysis:",
+      "paragraph3": "We use cookies and other advanced data tracking and collection technologies to gather statistical insights on website usage, facilitate integration with third-party services, retain your preferences and settings, and to comprehend user behavior and interests, thereby informing our marketing strategies.",
+      "subtitle4": "Legal Compliance:",
+      "paragraph4": "We adhere to legal requirements which necessitate the collection and retention of access records (logs) and other activities on our website."
+    },
+    "whatPersonal": {
+      "title": "WHAT PERSONAL DATA DO WE COLLECT?",
+      "paragraph1": "We gather and handle only the data that is essential for achieving our legitimate objectives. In alignment with this principle, the types of data we collect are as follows: (i) contact information: including name, surname, phone number, professional email, sector of activity, job title, subject matter, and message content; (ii) automated monitoring and data collection: information about your interactions with our interface and your navigation journey, such as pages and content accessed or searched, and all other related activities, including the use of cookies. Cookies are small text files that are saved on your browser when you visit our site, containing details about your online activity, like language preferences and login information. We utilize cookies to enhance your experience, monitor your online behavior, and retain important information, providing options for managing how cookies are applied. Moreover, we process data concerning the performance of strategic and customer acquisition campaigns, including the number of impressions, clicks, cost per click, and conversions; and (iii) access logs: we compile and store all access records created during your interaction with our website, encompassing IP address, date, and time, as stipulated by law. "
+    },
+    "whatData": {
+      "title": "WHAT DATA DO WE SHARE?",
+      "paragraph1": "We do not share data related to your interactions with our site, nor do we use it in our products. Personally identifiable information will also not be disclosed publicly or to third parties, except as mandated by legal obligations."
+    },
+    "dpo": {
+      "title": "DATA PROTECTION OFFICER (DPO):",
+      "paragraph1": "The Data Protection Officer (DPO) is designated to facilitate communication between DD8 and the data subjects. Should you have any inquiries regarding Personal Data, our DPO can be reached at dpo@dd8.ai."
+    },
+    "questions": {
+      "title": "HAVE ANY QUESTIONS?",
+      "paragraph1": "Should you require additional information or clarification on how we collect and utilize your personal data, or about your rights in data protection, please do not hesitate to contact us at dpo@dd8.ai."
+    },
+    "cookies": {
+      "title": "COOKIES POLICY",
+      "subtitle": "What Are Cookies?",
+      "paragraph1": "Cookies are small data files placed on your computer, tablet, or smartphone whenever you visit a website. They store information related to your online activities, including language preferences and login credentials. We deploy necessary cookies to enhance the website’s functionality and to perpetually enhance our services. Certain cookies are categorized as essential, supporting vital website functions such as security, network management, and accessibility. These essential cookies are collected and stored immediately upon initiating your browsing session or when you utilize specific features that necessitate them.",
+      "subtitle2": "What Cookies Do We Use?",
+      "item1": "Primary Cookies:",
+      "item1Details": "Some cookies will be placed on your device directly by our site; these are known as primary cookies. They are essential for navigating the website and utilizing its features.",
+      "item1A": "Temporary Cookies:",
+      "item1AParagraph": "We use session cookies, which are temporary and expire when you close your browser or end the session. Their purpose is to maintain language settings and ensure security during the session.",
+      "item1B": "Persistent Cookies:",
+      "item1BParagraph": "We also employ persistent cookies that remain on your hard drive until you delete them or your browser does, depending on the cookie’s expiration date. Each persistent cookie has an expiration date encoded in its file, but their lifespan can vary. These are used for the purpose of collecting and storing consent regarding the use of cookies on the website.",
+      "item2": "Third-Party Cookies:",
+      "item2Details": "Other cookies are placed on your device not by the site you are visiting but by third parties, such as analytics systems.",
+      "item2A": "Temporary Cookies:",
+      "item2AParagraph": "We use session cookies, which are temporary and expire when you close your browser or when the session ends. They are used to collect information about how you use the website, including the pages you visit and the links you click. None of this information can be used to identify you. Their sole purpose is to facilitate analysis and improve website functions.",
+      "item2B": "Persistent Cookies:",
+      "item2BParagraph": "We also use persistent cookies that stay on your hard drive until you delete them or your browser does, based on the cookie's expiration date. All persistent cookies have an expiration date written into their code, but their lifespan can vary. They are used to collect information about how you use the website, including the pages you visit and the links you click. None of this information can be used to identify you. Their sole purpose is to enable analysis and enhance the website's functionality. You can disable them by changing your browser settings, but be aware that this may affect how the website operates."
+    }
+  },
+  "security":{
+    "title": "SECURITY AND DOCUMENTATION",
+    "details": "This page is for understanding the information security procedures that guarantee the protection of our users' data against unauthorized access, loss, leaks, cyber-attacks, or any other form of compromise.",
+    "img-text": "We implement robust measures to provide a secure digital environment, protecting your information from storage to access and hosting.",
+    "accordions" : {
+      "title1": "Data protection at rest and in transit",
+      "paragraph1": "We guarantee security against unauthorized access with 256-bit AES (Advanced Encryption Standard) encryption for all stored data. We protect data transfer using 256-bit SSL/TLS (Transport Layer Security) encryption in all communications between the platform and its users. Encryption is a fundamental element to guarantee the confidentiality, integrity and authenticity of data and access in digital environments. The standards adopted on our platform are solid and reliable.",
+      "title2": "Secure and reliable cloud hosting",
+      "paragraph2": "Our platform is hosted on a Google Virtual Private Cloud (VPC), a dedicated and isolated environment that offers a high level of security and reliability.  Google follows the leading IT security standards, including SOC 2 Type II, SOC 3, PCI-DSS and ISO 27001 certifications, which ensure the protection of your data.",
+      "title3": "AI Governance for responsible and ethical use",
+      "paragraph3": "We developed our platform with features that allow the understanding, analysis and evaluation of governance solutions for the use of personal data in conjunction with artificial intelligence tools. In this way, we guarantee the management and integrity of your data, documentation and risk prevention, in addition to providing project oversight and control of outputs that contain biases, especially in automated decisions.",
+      "title4": "Audit log for total transparency",
+      "paragraph4": "Our production environments have security logging, uptime monitoring and system availability metrics for our core services. This allows our security team to apply automated monitoring and ensure platform availability 24 hours a day, 7 days a week.",
+      "title5": "Encryption, backups and data loss protection",
+      "paragraph5": "All information and data displayed on the platform goes through a rigorous 256-bit AES encryption process in storage, guaranteeing the security of the information. We implement a robust backup policy to prevent data deletion, protecting against accidental or malicious loss."
+    }
+  },
+  "form-beta": {
+    "title": "Sign up to get early access to the beta version",
+    "firstName": "First Name", 
+    "lastName": "Last Name", 
+    "email": "Work E-mail", 
+    "company": "Company", 
+    "phone": "Phone", 
+    "industry": "Industry", 
+    "role": "Title", 
+    "message": "Message",
+    "button": "Send"
+  },
+  "form-contact": {
+    "title": "Contact us"
+  },
+  "footer": {
+    "details": "DD8 is fully encrypted, ensuring that \n all your sensitive information remains \n 100% secure and private.",
+    "details-1": "DD8 is fully encrypted, ensuring that",
+    "details-2": "all your sensitive information remains",
+    "details-3": "100% secure and private.",
+    "contact": "Contact",
+    "company": "Company",
+    "about": "About",
+    "security": "Security",
+    "policies": "Policies",
+    "privacy": "Privacy",
+    "dataProcessing": "Data Processing",
+    "cookies": "Cookies"
+  }
+}
