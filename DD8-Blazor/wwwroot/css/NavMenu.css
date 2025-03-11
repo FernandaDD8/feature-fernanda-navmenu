@@ -1,4 +1,4 @@
-﻿.mud-container--gutters {
+﻿﻿.mud-container--gutters {
     padding-left: 10px;
     padding-right: 0px;
 }
@@ -127,10 +127,6 @@
     justify-content: center;
 }
 
-.mud-main-content, .mud-drawer {
-    z-index: 10;
-}
-
 .toggle-button {
     position: absolute;
     top: 10%;
@@ -220,4 +216,35 @@
 
 aside {
     box-shadow: none !important;
+}
+
+.mud-main-content {
+    margin-left: 240px; /* Sempre considerando o menu expandido */
+    transition: margin-left 0.3s ease;
+}
+
+.menu-collapsed {
+    width: 70px; /* Apenas para os ícones */
+    transition: width 0.3s ease;
+}
+
+.menu-collapsed .mud-nav-links .text-menu {
+    display: none;
+}
+
+.menu-expanded .mud-nav-links .text-menu {
+    display: inline-flex; /* Exibe o texto */
+}
+
+.menu-collapsed .img-icons {
+    margin-right: 0; /* Remove espaço para texto */
+}
+
+.menu-expanded {
+    width: 240px;
+    transition: width 0.3s ease;
+}
+
+.menu-expanded .mud-nav-links .text-menu {
+    display: flex;
 }

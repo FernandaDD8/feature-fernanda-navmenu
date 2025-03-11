@@ -1434,8 +1434,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0ilvrimd2u</Fingerprint>
-      <Integrity>mKHIMJUFlFIGAFEQk3BNZg5oUb81J+7Y/Pb5Jr+DiJs=</Integrity>
+      <Fingerprint>wc4t8ex7ao</Fingerprint>
+      <Integrity>UIs1vDHaNht8no9r+tuU3u3x41OxnE+pQP2RSUYJJZA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\NavMenu.css'))</OriginalItemSpec>

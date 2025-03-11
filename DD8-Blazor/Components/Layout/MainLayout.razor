@@ -1,7 +1,7 @@
 ﻿@inherits LayoutComponentBase
-<MudThemeProvider  @rendermode="InteractiveServer"  Theme="CustomTheme" />
+<MudThemeProvider @rendermode="InteractiveServer" Theme="CustomTheme" />
 <MudPopoverProvider @rendermode="InteractiveServer" />
-<MudDialogProvider  @rendermode="InteractiveServer"  />
+<MudDialogProvider @rendermode="InteractiveServer" />
 <MudSnackbarProvider @rendermode="InteractiveServer" />
 
 <MudLayout>
@@ -9,7 +9,8 @@
     <MudDrawerContainer>
 
         <!-- Menu Lateral -->
-        <MudDrawer @bind-Open="_drawerOpen" ClipMode="DrawerClipMode.Always">
+        <MudDrawer @bind-Open="_drawerOpen" ClipMode="DrawerClipMode.Always"
+            Class="@(_drawerOpen ? "menu-expanded" : "menu-collapsed")">
             <NavMenu />
         </MudDrawer>
 

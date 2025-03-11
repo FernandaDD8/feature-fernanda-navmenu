@@ -54,4 +54,4 @@ C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\`DD8-Blazor.pdb
 C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\DD8-Blazor.genruntimeconfig.cache
 C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\ref\`DD8-Blazor.dll
 C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\DD8-Blazor.sourcelink.json
-C:\Desenvolvimento-DD8\DD8-Blazor\dd8-blazor\obj\Debug\net9.0\compressed\lvpa51hlbf-0ilvrimd2u.gz
+C:\Desenvolvimento-DD8\DD8-Blazor\dd8-blazor\obj\Debug\net9.0\compressed\lvpa51hlbf-wc4t8ex7ao.gz
