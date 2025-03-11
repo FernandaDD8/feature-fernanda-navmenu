@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "j4yDUxEgMkWAf+Gl0ujJzB0izamojZocENXOAotjBj4=",
+  "Hash": "BGKGfnagQeinMxbLOA5dB5BNSAM3mR835LsRgW2Ify4=",
   "Source": "`DD8-Blazor",
   "BasePath": "_content/`DD8-Blazor",
   "Mode": "Default",
@@ -311,12 +311,12 @@
       "OriginalItemSpec": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\suporte.svg"
     },
     {
-      "Identity": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\DD8-Blazor\\obj\\Debug\\net9.0\\compressed\\lvpa51hlbf-enlv4i6hqt.gz",
+      "Identity": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\DD8-Blazor\\obj\\Debug\\net9.0\\compressed\\lvpa51hlbf-o57ph5ypgt.gz",
       "SourceId": "`DD8-Blazor",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\DD8-Blazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/`DD8-Blazor",
-      "RelativePath": "css/NavMenu#[.{fingerprint=enlv4i6hqt}]?.css.gz",
+      "RelativePath": "css/NavMenu#[.{fingerprint=o57ph5ypgt}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -325,8 +325,8 @@
       "RelatedAsset": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\DD8-Blazor\\wwwroot\\css\\NavMenu.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "si0wox1mvd",
-      "Integrity": "XGnHSJlN8KHp93PW4pEz54Oz/LJGIJ9Ju7NKZTs8ZK8=",
+      "Fingerprint": "928vexxef7",
+      "Integrity": "kbwvhjPy0h0lI71dMzr/lgNuBe1m1MUv+NnJS+nEi4s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\DD8-Blazor\\wwwroot\\css\\NavMenu.css"
@@ -2194,8 +2194,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "enlv4i6hqt",
-      "Integrity": "ptR4zA+8Urm620Vos4LJL3fuiHoNjJemgnLN/fqYxc4=",
+      "Fingerprint": "o57ph5ypgt",
+      "Integrity": "fDXTflb4KhIrR0Q5NgW4G03ATRmfkczpSGbwPnRYGxo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\NavMenu.css"
@@ -13234,12 +13234,12 @@
     },
     {
       "Route": "css/NavMenu.css",
-      "AssetFile": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\DD8-Blazor\\obj\\Debug\\net9.0\\compressed\\lvpa51hlbf-enlv4i6hqt.gz",
+      "AssetFile": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\DD8-Blazor\\obj\\Debug\\net9.0\\compressed\\lvpa51hlbf-o57ph5ypgt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001000000000"
+          "Quality": "0.000875656743"
         }
       ],
       "ResponseHeaders": [
@@ -13249,15 +13249,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "999"
+          "Value": "1141"
         },
         {
           "Name": "ETag",
-          "Value": "\"XGnHSJlN8KHp93PW4pEz54Oz/LJGIJ9Ju7NKZTs8ZK8=\""
+          "Value": "\"kbwvhjPy0h0lI71dMzr/lgNuBe1m1MUv+NnJS+nEi4s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 16:43:11 GMT"
+          "Value": "Tue, 11 Mar 2025 15:03:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13277,13 +13277,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ptR4zA+8Urm620Vos4LJL3fuiHoNjJemgnLN/fqYxc4=\""
+          "Value": "W/\"fDXTflb4KhIrR0Q5NgW4G03ATRmfkczpSGbwPnRYGxo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ptR4zA+8Urm620Vos4LJL3fuiHoNjJemgnLN/fqYxc4="
+          "Value": "sha256-fDXTflb4KhIrR0Q5NgW4G03ATRmfkczpSGbwPnRYGxo="
         }
       ]
     },
@@ -13298,7 +13298,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3320"
+          "Value": "4261"
         },
         {
           "Name": "Content-Type",
@@ -13306,11 +13306,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ptR4zA+8Urm620Vos4LJL3fuiHoNjJemgnLN/fqYxc4=\""
+          "Value": "\"fDXTflb4KhIrR0Q5NgW4G03ATRmfkczpSGbwPnRYGxo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 16:43:11 GMT"
+          "Value": "Tue, 11 Mar 2025 15:03:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13320,13 +13320,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ptR4zA+8Urm620Vos4LJL3fuiHoNjJemgnLN/fqYxc4="
+          "Value": "sha256-fDXTflb4KhIrR0Q5NgW4G03ATRmfkczpSGbwPnRYGxo="
         }
       ]
     },
     {
       "Route": "css/NavMenu.css.gz",
-      "AssetFile": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\DD8-Blazor\\obj\\Debug\\net9.0\\compressed\\lvpa51hlbf-enlv4i6hqt.gz",
+      "AssetFile": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\DD8-Blazor\\obj\\Debug\\net9.0\\compressed\\lvpa51hlbf-o57ph5ypgt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13335,7 +13335,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "999"
+          "Value": "1141"
         },
         {
           "Name": "Content-Type",
@@ -13343,11 +13343,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XGnHSJlN8KHp93PW4pEz54Oz/LJGIJ9Ju7NKZTs8ZK8=\""
+          "Value": "\"kbwvhjPy0h0lI71dMzr/lgNuBe1m1MUv+NnJS+nEi4s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 16:43:11 GMT"
+          "Value": "Tue, 11 Mar 2025 15:03:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13365,18 +13365,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XGnHSJlN8KHp93PW4pEz54Oz/LJGIJ9Ju7NKZTs8ZK8="
+          "Value": "sha256-kbwvhjPy0h0lI71dMzr/lgNuBe1m1MUv+NnJS+nEi4s="
         }
       ]
     },
     {
-      "Route": "css/NavMenu.enlv4i6hqt.css",
-      "AssetFile": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\DD8-Blazor\\obj\\Debug\\net9.0\\compressed\\lvpa51hlbf-enlv4i6hqt.gz",
+      "Route": "css/NavMenu.o57ph5ypgt.css",
+      "AssetFile": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\DD8-Blazor\\obj\\Debug\\net9.0\\compressed\\lvpa51hlbf-o57ph5ypgt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001000000000"
+          "Quality": "0.000875656743"
         }
       ],
       "ResponseHeaders": [
@@ -13386,15 +13386,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "999"
+          "Value": "1141"
         },
         {
           "Name": "ETag",
-          "Value": "\"XGnHSJlN8KHp93PW4pEz54Oz/LJGIJ9Ju7NKZTs8ZK8=\""
+          "Value": "\"kbwvhjPy0h0lI71dMzr/lgNuBe1m1MUv+NnJS+nEi4s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 16:43:11 GMT"
+          "Value": "Tue, 11 Mar 2025 15:03:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13414,13 +13414,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ptR4zA+8Urm620Vos4LJL3fuiHoNjJemgnLN/fqYxc4=\""
+          "Value": "W/\"fDXTflb4KhIrR0Q5NgW4G03ATRmfkczpSGbwPnRYGxo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "enlv4i6hqt"
+          "Value": "o57ph5ypgt"
         },
         {
           "Name": "label",
@@ -13428,12 +13428,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ptR4zA+8Urm620Vos4LJL3fuiHoNjJemgnLN/fqYxc4="
+          "Value": "sha256-fDXTflb4KhIrR0Q5NgW4G03ATRmfkczpSGbwPnRYGxo="
         }
       ]
     },
     {
-      "Route": "css/NavMenu.enlv4i6hqt.css",
+      "Route": "css/NavMenu.o57ph5ypgt.css",
       "AssetFile": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\DD8-Blazor\\wwwroot\\css\\NavMenu.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13443,7 +13443,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3320"
+          "Value": "4261"
         },
         {
           "Name": "Content-Type",
@@ -13451,11 +13451,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ptR4zA+8Urm620Vos4LJL3fuiHoNjJemgnLN/fqYxc4=\""
+          "Value": "\"fDXTflb4KhIrR0Q5NgW4G03ATRmfkczpSGbwPnRYGxo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 16:43:11 GMT"
+          "Value": "Tue, 11 Mar 2025 15:03:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13465,7 +13465,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "enlv4i6hqt"
+          "Value": "o57ph5ypgt"
         },
         {
           "Name": "label",
@@ -13473,13 +13473,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ptR4zA+8Urm620Vos4LJL3fuiHoNjJemgnLN/fqYxc4="
+          "Value": "sha256-fDXTflb4KhIrR0Q5NgW4G03ATRmfkczpSGbwPnRYGxo="
         }
       ]
     },
     {
-      "Route": "css/NavMenu.enlv4i6hqt.css.gz",
-      "AssetFile": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\DD8-Blazor\\obj\\Debug\\net9.0\\compressed\\lvpa51hlbf-enlv4i6hqt.gz",
+      "Route": "css/NavMenu.o57ph5ypgt.css.gz",
+      "AssetFile": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\DD8-Blazor\\obj\\Debug\\net9.0\\compressed\\lvpa51hlbf-o57ph5ypgt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13488,7 +13488,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "999"
+          "Value": "1141"
         },
         {
           "Name": "Content-Type",
@@ -13496,11 +13496,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XGnHSJlN8KHp93PW4pEz54Oz/LJGIJ9Ju7NKZTs8ZK8=\""
+          "Value": "\"kbwvhjPy0h0lI71dMzr/lgNuBe1m1MUv+NnJS+nEi4s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 16:43:11 GMT"
+          "Value": "Tue, 11 Mar 2025 15:03:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13518,7 +13518,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "enlv4i6hqt"
+          "Value": "o57ph5ypgt"
         },
         {
           "Name": "label",
@@ -13526,7 +13526,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XGnHSJlN8KHp93PW4pEz54Oz/LJGIJ9Ju7NKZTs8ZK8="
+          "Value": "sha256-kbwvhjPy0h0lI71dMzr/lgNuBe1m1MUv+NnJS+nEi4s="
         }
       ]
     },

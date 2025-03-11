@@ -47,11 +47,12 @@ C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\staticwebassets\ms
 C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.`DD8-Blazor.props
 C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.`DD8-Blazor.props
 C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\DD8-Blazor.csproj.Up2Date
 C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\`DD8-Blazor.dll
 C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\refint\`DD8-Blazor.dll
 C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\`DD8-Blazor.pdb
 C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\DD8-Blazor.genruntimeconfig.cache
 C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\ref\`DD8-Blazor.dll
-C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\compressed\lvpa51hlbf-enlv4i6hqt.gz
+C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\DD8-Blazor.sourcelink.json
+C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Desenvolvimento-DD8\DD8-Blazor\DD8-Blazor\obj\Debug\net9.0\compressed\lvpa51hlbf-o57ph5ypgt.gz

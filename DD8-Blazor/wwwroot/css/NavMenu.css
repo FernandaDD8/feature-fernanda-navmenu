@@ -33,9 +33,20 @@
             letter-spacing: -0.28px;
         }
 
-    .text-menu img {
-        margin-right: 8px;
-    }
+.active-menu {
+    border-left: 3px solid #00F;
+    border-radius: 0px 8px 8px 0px;
+    background-color: rgba(43, 43, 51, 0.10) !important;
+    font-weight: 600;
+    letter-spacing: -0.28px;
+}
+
+
+
+
+.text-menu img {
+    margin-right: 8px;
+}
 
 .img-brand {
     width: 72px;
@@ -44,8 +55,17 @@
 }
 
 .div-text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     margin: 0;
     padding: 0;
+}
+
+.mud-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
 
 .avatar-custom {
@@ -147,14 +167,17 @@
     background-color: transparent;
 }
 
-    .div-text-item-menu a {
-        background-color: transparent !important;
-    }
+.span-content-menu {
+    height: 115px;
+}
 
 .mud-grid-spacing-xs-6 {
-    width: 100%;
-    margin: 0;
     padding: 0;
+    padding-top: 20px;
+}
+
+.grid-painel-admin {
+    padding-left: 20px;
 }
 
 .mud-drawer.mud-drawer-responsive.mud-drawer-pos-left,
@@ -166,6 +189,34 @@
     gap: 5px;
     align-self: stretch;
 }
+
+.icon-parameter {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.mud-button-parameter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    min-width: 40px;
+    min-height: 40px;
+}
+
+.icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
 
 aside {
     box-shadow: none !important;
