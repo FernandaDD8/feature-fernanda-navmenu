@@ -1,7 +1,8 @@
 ﻿@inherits LayoutComponentBase
-<MudThemeProvider Theme="CustomTheme" />
-<MudPopoverProvider />
-<MudDialogProvider />
+<MudThemeProvider  @rendermode="InteractiveServer"  Theme="CustomTheme" />
+<MudPopoverProvider @rendermode="InteractiveServer" />
+<MudDialogProvider  @rendermode="InteractiveServer"  />
+<MudSnackbarProvider @rendermode="InteractiveServer" />
 
 <MudLayout>
 
