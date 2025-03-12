@@ -1,331 +1,331 @@
 {
   "Files": [
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\.gitkeep",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\.gitkeep",
       "PackagePath": "staticwebassets\\assets\\.gitkeep"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\fonts\\BarlowSemiCondensed-Bold.ttf",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\fonts\\BarlowSemiCondensed-Bold.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\BarlowSemiCondensed-Bold.ttf"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\fonts\\BarlowSemiCondensed-ExtraBold.ttf",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\fonts\\BarlowSemiCondensed-ExtraBold.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\BarlowSemiCondensed-ExtraBold.ttf"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\fonts\\BarlowSemiCondensed-Light.ttf",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\fonts\\BarlowSemiCondensed-Light.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\BarlowSemiCondensed-Light.ttf"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\fonts\\BarlowSemiCondensed-Medium.ttf",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\fonts\\BarlowSemiCondensed-Medium.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\BarlowSemiCondensed-Medium.ttf"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\fonts\\BarlowSemiCondensed-Regular.ttf",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\fonts\\BarlowSemiCondensed-Regular.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\BarlowSemiCondensed-Regular.ttf"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\fonts\\BarlowSemiCondensed-SemiBold.ttf",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\fonts\\BarlowSemiCondensed-SemiBold.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\BarlowSemiCondensed-SemiBold.ttf"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\fonts\\Montserrat-Bold.ttf",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\fonts\\Montserrat-Bold.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat-Bold.ttf"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\fonts\\Montserrat-ExtraBold.ttf",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\fonts\\Montserrat-ExtraBold.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat-ExtraBold.ttf"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\fonts\\Montserrat-Light.ttf",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\fonts\\Montserrat-Light.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat-Light.ttf"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\fonts\\Montserrat-Medium.ttf",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\fonts\\Montserrat-Medium.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat-Medium.ttf"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\fonts\\Montserrat-Regular.ttf",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\fonts\\Montserrat-Regular.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat-Regular.ttf"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\fonts\\Montserrat-SemiBold.ttf",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\fonts\\Montserrat-SemiBold.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat-SemiBold.ttf"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\i18n\\en.json",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\i18n\\en.json",
       "PackagePath": "staticwebassets\\assets\\i18n\\en.json"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\i18n\\pt.json",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\i18n\\pt.json",
       "PackagePath": "staticwebassets\\assets\\i18n\\pt.json"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\icons\\android-chrome-192x192.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\icons\\android-chrome-192x192.png",
       "PackagePath": "staticwebassets\\assets\\icons\\android-chrome-192x192.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\icons\\android-chrome-512x512.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\icons\\android-chrome-512x512.png",
       "PackagePath": "staticwebassets\\assets\\icons\\android-chrome-512x512.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\icons\\apple-touch-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\icons\\apple-touch-icon.png",
       "PackagePath": "staticwebassets\\assets\\icons\\apple-touch-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\icons\\browserconfig.xml",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\icons\\browserconfig.xml",
       "PackagePath": "staticwebassets\\assets\\icons\\browserconfig.xml"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\icons\\favicon-16x16.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\icons\\favicon-16x16.png",
       "PackagePath": "staticwebassets\\assets\\icons\\favicon-16x16.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\icons\\favicon-32x32.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\icons\\favicon-32x32.png",
       "PackagePath": "staticwebassets\\assets\\icons\\favicon-32x32.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\icons\\favicon.ico",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\icons\\favicon.ico",
       "PackagePath": "staticwebassets\\assets\\icons\\favicon.ico"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\icons\\mstile-150x150.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\icons\\mstile-150x150.png",
       "PackagePath": "staticwebassets\\assets\\icons\\mstile-150x150.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\icons\\projects-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\icons\\projects-icon.png",
       "PackagePath": "staticwebassets\\assets\\icons\\projects-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\icons\\projects-icon.svg",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\icons\\projects-icon.svg",
       "PackagePath": "staticwebassets\\assets\\icons\\projects-icon.svg"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\icons\\safari-pinned-tab.svg",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\icons\\safari-pinned-tab.svg",
       "PackagePath": "staticwebassets\\assets\\icons\\safari-pinned-tab.svg"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\icons\\site.webmanifest",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\icons\\site.webmanifest",
       "PackagePath": "staticwebassets\\assets\\icons\\site.webmanifest"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\404.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\404.png",
       "PackagePath": "staticwebassets\\assets\\images\\404.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\DeepDive\\Vector.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\DeepDive\\Vector.png",
       "PackagePath": "staticwebassets\\assets\\images\\DeepDive\\Vector.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\DeepDive\\ai-technology-spark--lightbulb-idea-bright-lighting-artificial-intelligence-ai.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\DeepDive\\ai-technology-spark--lightbulb-idea-bright-lighting-artificial-intelligence-ai.png",
       "PackagePath": "staticwebassets\\assets\\images\\DeepDive\\ai-technology-spark--lightbulb-idea-bright-lighting-artificial-intelligence-ai.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\DeepDive\\arrow-close.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\DeepDive\\arrow-close.png",
       "PackagePath": "staticwebassets\\assets\\images\\DeepDive\\arrow-close.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\DeepDive\\arrow-open.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\DeepDive\\arrow-open.png",
       "PackagePath": "staticwebassets\\assets\\images\\DeepDive\\arrow-open.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\DeepDive\\delete.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\DeepDive\\delete.png",
       "PackagePath": "staticwebassets\\assets\\images\\DeepDive\\delete.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\access-denied.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\access-denied.png",
       "PackagePath": "staticwebassets\\assets\\images\\access-denied.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\account\\Vector.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\account\\Vector.png",
       "PackagePath": "staticwebassets\\assets\\images\\account\\Vector.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\account\\delete-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\account\\delete-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\account\\delete-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\account\\filter-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\account\\filter-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\account\\filter-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\account\\key.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\account\\key.png",
       "PackagePath": "staticwebassets\\assets\\images\\account\\key.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\account\\order-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\account\\order-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\account\\order-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\account\\senha.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\account\\senha.png",
       "PackagePath": "staticwebassets\\assets\\images\\account\\senha.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\account\\sum-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\account\\sum-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\account\\sum-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\logo.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\logo.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\reduced-logo.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\reduced-logo.png",
       "PackagePath": "staticwebassets\\assets\\images\\reduced-logo.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\ByeWind.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\ByeWind.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\ByeWind.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\Logout.svg",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\Logout.svg",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\Logout.svg"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\account.svg",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\account.svg",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\account.svg"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\add-proj-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\add-proj-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\add-proj-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\add-proj-icon.svg",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\add-proj-icon.svg",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\add-proj-icon.svg"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\administrator-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\administrator-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\administrator-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\analysis-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\analysis-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\analysis-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\companies-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\companies-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\companies-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\dashboard-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\dashboard-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\dashboard-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\deep_dive.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\deep_dive.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\deep_dive.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\deep_dive.svg",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\deep_dive.svg",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\deep_dive.svg"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\deep_dive_old.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\deep_dive_old.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\deep_dive_old.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\enterprise.svg",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\enterprise.svg",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\enterprise.svg"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\historico.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\historico.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\historico.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\historico.svg",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\historico.svg",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\historico.svg"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\layout-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\layout-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\layout-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\list-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\list-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\list-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\logout-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\logout-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\logout-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\office-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\office-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\office-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\parameter-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\parameter-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\parameter-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\parameter-icon.svg",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\parameter-icon.svg",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\parameter-icon.svg"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\parameters.svg",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\parameters.svg",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\parameters.svg"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\playbooks-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\playbooks-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\playbooks-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\projects-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\projects-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\projects-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\projects-icon.svg",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\projects-icon.svg",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\projects-icon.svg"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\risks-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\risks-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\risks-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\settings-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\settings-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\settings-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\suporte.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\suporte.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\suporte.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\suporte.svg",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\suporte.svg",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\suporte.svg"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\team-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\team-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\team-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\team.svg",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\team.svg",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\team.svg"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\toggle-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\toggle-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\toggle-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\union-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\union-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\union-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\user-avatar.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\user-avatar.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\user-avatar.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\assets\\images\\sidenav-icons\\user-icon.png",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\assets\\images\\sidenav-icons\\user-icon.png",
       "PackagePath": "staticwebassets\\assets\\images\\sidenav-icons\\user-icon.png"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\css\\App.css",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\css\\App.css",
       "PackagePath": "staticwebassets\\css\\App.css"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\css\\NavMenu.css",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\css\\NavMenu.css",
       "PackagePath": "staticwebassets\\css\\NavMenu.css"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\favicon.ico",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Desenvolvimento-DD8\\DD8-Blazor\\dd8-blazor\\wwwroot\\js\\MainLayout.js",
+      "Id": "C:\\Desenvolvimento-DD8\\my-clone-DD8\\feature-fernanda-navmenu\\DD8-Blazor\\wwwroot\\js\\MainLayout.js",
       "PackagePath": "staticwebassets\\js\\MainLayout.js"
     },
     {
